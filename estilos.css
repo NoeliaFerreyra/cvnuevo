@@ -1,1 +1,48 @@
-/*aca van los estilos en css/
+#contenedor-principal{
+    background-color: lightgray;
+    height: 1200px;
+    width: 90%;
+    margin: 1px;
+    border-radius: 1em;
+}
+#contenido-dividido{
+    background-color: aliceblue;
+    height: 1000px;
+    width: 95%;
+    border-radius: 1em;
+    margin: 10px;
+    padding: 5px;
+    float: left;
+
+}
+#barra-lateral-izq{
+    background-color: beige;
+    height: 900px ;
+    width: 30%;
+    margin: 5px;
+    padding: 5px;
+    border-radius: 1em;
+    float: left;
+    border-color: black ; 
+    border-style: solid;
+    
+}
+#contenido-central{
+    background-color: beige;
+    height: 900px ;
+    width: 60%;
+    margin: 5px;
+    padding: 5px;
+    border-radius: 1em;
+    float: left;
+
+}
+.foto{
+    border-radius:50% ;
+    height: 200px;
+    width: 200px;
+    align-items: center;
+}
+h2{text-align: center ;
+padding: 10px;
+}
