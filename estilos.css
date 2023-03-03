@@ -1,6 +1,6 @@
 #contenedor-principal{
-    background-color: lightgray;
-    height: 1200px;
+    background-color: #E6E7E8;
+    height: 1100px;
     width: 90%;
     margin: 1px;
     border-radius: 1em;
@@ -8,8 +8,8 @@
 
 }
 #contenido-dividido{
-    background-color: aliceblue;
-    height: 1000px;
+    background-color: white;
+    height: 950px;
     width: 95%;
     border-radius: 1em;
     margin: 5px;
@@ -18,7 +18,7 @@
 
 }
 #barra-lateral-izq{
-    background-color: beige;
+    background-color: #E6E7E8;
     height: 900px ;
     width: 30%;
     margin: 5px;
@@ -31,7 +31,7 @@
     
 }
 #contenido-central{
-    background-color: beige;
+    background-color: white;
     height: 900px ;
     width: 60%;
     margin: 5px;
@@ -42,21 +42,27 @@
 }
 .foto{
     border-radius:50% ;
-    height: 200px;
-    width: 200px;
+    height: 300px;
+    width: 300px;
     text-align: center;
 }
 h2{text-align: center ;
-padding: 10px;
+padding: 3px;
+text-decoration: underline;
 }
 #nombre{
+    text-align: center;
     font-size:60px;
-    font-family: Helvetica, sans-serif
+    font-family:Helvetica, sans-serif;
     
 }
-.pie{
-    background-color:white;
+#pie{
+    background-color:lightgray;
+    font-style: 
+     ;
     border-radius: 1em;
-    height: 200px;
+    height: 50px;
     width: 90%;
+    text-align: center;
 }
+
