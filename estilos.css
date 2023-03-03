@@ -19,13 +19,13 @@
 }
 #barra-lateral-izq{
     background-color: #E6E7E8;
-    height: 900px ;
+    height: 920px ;
     width: 30%;
     margin: 5px;
     padding: 5px;
-    border-radius: 1em;
+    border-radius: 10em;
     float: left;
-    border-color: black ; 
+    border-color: rgb(82, 75, 75) ; 
     border-style: solid;
     text-align: center;
     
@@ -42,18 +42,23 @@
 }
 .foto{
     border-radius:50% ;
-    height: 300px;
-    width: 300px;
-    text-align: center;
+    height: 200px;
+    width: 200px;
+    border-width: 5px;
+    border-color:  rgb(82, 75, 75) ; 
+    border-style: solid;
+    margin: 20px;
+    
+    
 }
-h2{text-align: center ;
-padding: 3px;
-text-decoration: underline;
-}
+
 #nombre{
+    color: #898D91;
     text-align: center;
     font-size:60px;
     font-family:Helvetica, sans-serif;
+    margin-bottom: 0%;
+    padding-bottom: 0%;
     
 }
 #pie{
@@ -66,3 +71,15 @@ text-decoration: underline;
     text-align: center;
 }
 
+h2{
+    color: #898D91;
+}
+
+#sobremi{
+    font-size: 40px;
+    margin-top: 0%;
+}
+
+.datospersonales{
+    text-align: left;
+}
