@@ -6,7 +6,8 @@
     border-radius: 1em;
     font-family: 'Montserrat', sans-serif;
 
-}
+} 
+/* invisible*/
 #contenido-dividido{
     background-color: white;
     height: 950px;
@@ -15,6 +16,7 @@
     margin: 5px;
     padding: 3px;
     float: left;
+    margin-left: 25px;
 
 }
 #barra-lateral-izq{
@@ -28,6 +30,7 @@
     border-color: rgb(82, 75, 75) ; 
     border-style: solid;
     text-align: center;
+    margin-left: 10px;
     
 }
 #contenido-central{
@@ -37,7 +40,7 @@
     margin: 5px;
     padding: 5px;
     border-radius: 1em;
-    float: left;
+    float: right;
 
 }
 .foto{
